@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Pomelo Prism macOS Updates</title>
     <link>https://pomeloteam.github.io/pomelo-prism-releases/</link>
@@ -9,4 +10,7 @@
          Replace this feed with the signed output from Sparkle generate_appcast
          after the first notarized update archive is ready. -->
   </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: mOeHTOaB+StDzMltYq0yxgSkAutmnk9YQfVOT2kihVaDVb08e7fXbW/YuIl9aX9VoAtTTYY55UY61/Rb5JmACg==
+length: 845
+-->
