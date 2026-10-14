@@ -1,0 +1,11 @@
+# Installation archives belong in GitHub Releases, not the Pages branch.
+*.dmg
+*.zip
+*.tar.xz
+.DS_Store
+
+# Never publish signing credentials or private keys.
+*.p12
+*.pfx
+*.key
+private-key*

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Pomelo Prism macOS Updates</title>
+    <link>https://pomeloteam.github.io/pomelo-prism-releases/</link>
+    <description>Official updates for the Pomelo Prism macOS website edition.</description>
+    <language>zh-Hans</language>
+    <!-- Bootstrap only: no release is advertised.
+         Replace this feed with the signed output from Sparkle generate_appcast
+         after the first notarized update archive is ready. -->
+  </channel>
+</rss>
