@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Pomelo Prism macOS Updates</title>
-    <link>https://pomeloteam.github.io/pomelo-prism-releases/</link>
-    <description>Official updates for the Pomelo Prism macOS website edition.</description>
-    <language>zh-Hans</language>
-    <!-- Bootstrap only: no release is advertised.
-         Replace this feed with the signed output from Sparkle generate_appcast
-         after the first notarized update archive is ready. -->
-  </channel>
+    <channel>
+        <title>Pomelo Prism</title>
+        <item>
+            <title>1.2.3</title>
+            <pubDate>Thu, 15 Oct 2026 10:44:25 +0800</pubDate>
+            <link>https://github.com/pomeloteam/pomelo-prism-releases/releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Pomelo Prism 1.2.3</h2>
+<ul>
+  <li>新增 macOS 官网版自动更新支持。</li>
+  <li>可在设置中检查更新，并管理自动检查、下载与安装选项。</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/pomeloteam/pomelo-prism-releases/releases/download/v1.2.3/Pomelo-Prism-1.2.3.dmg" length="12402203" type="application/octet-stream" sparkle:edSignature="kKyQShUSGp2lbg/w5gy2mvvbKNSkPxBGR/wo1VMXlOD/s9IG7+couthescsMpj9V6txAbFkv+HDcFKBWcThgDw=="></enclosure>
+        </item>
+    </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mOeHTOaB+StDzMltYq0yxgSkAutmnk9YQfVOT2kihVaDVb08e7fXbW/YuIl9aX9VoAtTTYY55UY61/Rb5JmACg==
-length: 845
+edSignature: MkmGZlO35ZdRbycy4IK5sUVbSj6RFDtIuYpPI+yCE0tpqSDfhtFMv9hpToAOWg7TFqEl4Mi1dNPSJ8Yo1DBnAA==
+length: 1387
 -->
