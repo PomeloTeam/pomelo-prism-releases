@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pomelo Prism</title>
+        <item>
+            <title>1.2.4</title>
+            <pubDate>Thu, 15 Oct 2026 14:19:45 +0800</pubDate>
+            <link>https://github.com/PomeloTeam/pomelo-prism-releases/releases/tag/v1.2.4</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Pomelo Prism 1.2.4 升级测试</h2>
+<p>用于验证 macOS 官网版从 1.2.3 升级到 1.2.4 的下载、安装及重新启动流程。</p>
+<p>测试前请停止抓包，并保存需要保留的工作。</p>
+]]></description>
+            <enclosure url="https://github.com/PomeloTeam/pomelo-prism-releases/releases/download/v1.2.4/Pomelo-Prism-1.2.4.dmg" length="13279138" type="application/octet-stream" sparkle:edSignature="JAmGLAJljmzXdz6WwWOjv1M842LIMaa4ziXsn29pKMmgpxCt6xs95wHVkcLfZ8h9TQoIObpYSPiWftMs3XriDg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: QuRxy29tkuW73hr70Z/GCG62v7Ig3+Tqf1brdjygh/PTlH1BuGEgPD2HKr1egjvx92xtM6ezEQP0O/UMNC2jBA==
+length: 1428
+-->
